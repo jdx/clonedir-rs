@@ -1,0 +1,9 @@
+[package]
+name = "clonedir"
+version = "0.1.0"
+authors = ["Jeff Dickey <@jdxcode>"]
+
+[workspace]
+
+[dependencies]
+clonedir_lib = { path = "clonedir_lib" }
